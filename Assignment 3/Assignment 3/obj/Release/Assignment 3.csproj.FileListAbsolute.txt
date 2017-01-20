@@ -1,0 +1,8 @@
+E:\Gr.10 computer science\Assignment 3\Assignment 3\Assignment 3\bin\Release\Assignment 3.exe
+E:\Gr.10 computer science\Assignment 3\Assignment 3\Assignment 3\bin\Release\Assignment 3.pdb
+E:\Gr.10 computer science\Assignment 3\Assignment 3\Assignment 3\obj\Release\ResolveAssemblyReference.cache
+E:\Gr.10 computer science\Assignment 3\Assignment 3\Assignment 3\obj\Release\Assignment_3.Form1.resources
+E:\Gr.10 computer science\Assignment 3\Assignment 3\Assignment 3\obj\Release\Assignment_3.Properties.Resources.resources
+E:\Gr.10 computer science\Assignment 3\Assignment 3\Assignment 3\obj\Release\Assignment 3.csproj.GenerateResource.Cache
+E:\Gr.10 computer science\Assignment 3\Assignment 3\Assignment 3\obj\Release\Assignment 3.exe
+E:\Gr.10 computer science\Assignment 3\Assignment 3\Assignment 3\obj\Release\Assignment 3.pdb
